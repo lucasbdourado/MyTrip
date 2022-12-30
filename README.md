@@ -16,3 +16,7 @@ npm install --save-dev webpack webpack-cli
 ```
 npm install --savedev html-webpack-plugin
 ```
+
+## Visualização do Projeto:
+
+https://lucasbdourado.github.io/Twitter-Clone/
