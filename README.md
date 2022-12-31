@@ -1,4 +1,7 @@
-# Módulo - Webpack
+# MyTrip
+
+## Descrição
+Landing Page para uma central de viagens. Projeto realizado para o Curso da EBAC, utilizando as tecnologias HTML, CSS, SASS e JavaScript.
 
 ## Instalação
 
