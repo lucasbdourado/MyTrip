@@ -22,4 +22,5 @@ npm install --savedev html-webpack-plugin
 
 ## Visualização do Projeto:
 
-https://lucasbdourado.github.io/Twitter-Clone
+https://lucasbdourado.github.io/MyTrip-Site
+
